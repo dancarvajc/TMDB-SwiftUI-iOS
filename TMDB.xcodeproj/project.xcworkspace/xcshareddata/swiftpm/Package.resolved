@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "asynccompatibilitykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/AsyncCompatibilityKit",
+      "state" : {
+        "revision" : "c69c367042586a55977407bbca548f6867640bd5",
+        "version" : "0.1.2"
+      }
+    },
+    {
+      "identity" : "gifu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaishin/Gifu",
+      "state" : {
+        "revision" : "51f2eab32903e336f590c013267cfa4d7f8b06c4",
+        "version" : "3.3.1"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6299daec1d74be12164fec090faf9ed14d0da9d6"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke.git",
+      "state" : {
+        "revision" : "958ca90df22fc77fdf33b5b9a6d70102b7743851",
+        "version" : "10.9.0"
+      }
+    },
+    {
+      "identity" : "nukeui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/NukeUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a7a8b21913d92bc183af10dfca2861a67d44a709"
+      }
+    }
+  ],
+  "version" : 2
+}
